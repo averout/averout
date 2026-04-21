@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
+<br/>
 # hey, i'm averout ✨
 
 **vibe coder**
